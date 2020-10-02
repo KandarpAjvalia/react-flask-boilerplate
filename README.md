@@ -4,7 +4,7 @@
 ### Setup
 1. Clone the Repo.
   ```sh
-  git clone git@github.com:KandarpAjvalia/react-node-boilerplate.git
+  git clone git@github.com:KandarpAjvalia/react-flask-boilerplate.git
   ```
 2. Install dependencies.
   ```sh
